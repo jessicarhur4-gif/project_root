@@ -34,8 +34,7 @@ C:.
 💬 요약
 이번 과제를 통해 Git의 기본 명령어(`git init`, `git add`, `git commit`, `git push`, `git pull`, `git status`, `git log`)를 실습하며  
 로컬과 원격 저장소를 연동하는 과정을 이해하였다.  
-또한, commit 규칙(ADD / MOD![Uploading capture1.png…]()
-IFY / FIX)을 적용하여 버전 관리의 기본 원리를 학습하였다.
+또한, commit 규칙(ADD / MODIFY / FIX)을 적용하여 버전 관리의 기본 원리를 학습하였다.
 
 ![첫번째 캡처](doc/images/capture1.png)
 ![두번째 캡처](doc/images/capture2.png)
